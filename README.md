@@ -48,26 +48,27 @@ To check the git status
 ```
 git status
 ```
-To check all version maintained by git
 
+To check all version maintained by git
 ```
 git log
 ```
-To create version/commit all changes by git
 
+To create version/commit all changes by git
 ```
 git commit -m "message"
 ```
-To send version/changes to github
 
+To send version/changes to github
 ```
 git push origin main
 ```
 To check remote url
-
+```
 git remote -v
-To setup CI/CD pipeline in heroku we need 3 information
+```
 
+To setup CI/CD pipeline in heroku we need 3 information
 HEROKU_EMAIL = anishyadav7045075175@gmail.com
 HEROKU_API_KEY = <>
 HEROKU_APP_NAME = ml-regression-app
