@@ -63,10 +63,12 @@ To send version/changes to github
 ```
 git push origin main
 ```
+
 To check remote url
 ```
-git remote -v
+git remote -vgit remote -v
 ```
+
 
 To setup CI/CD pipeline in heroku we need 3 information
 HEROKU_EMAIL = anishyadav7045075175@gmail.com
